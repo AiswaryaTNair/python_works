@@ -1,0 +1,6 @@
+def even_or_odd(a)
+even_or_odd(21)
+   if a%2==0:
+    return odd
+   else:
+        
